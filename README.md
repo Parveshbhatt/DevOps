@@ -1,2 +1,2 @@
 # DevOps
-DevOps tutorial
+DevOps  lab tutorial
