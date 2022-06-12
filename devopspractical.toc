@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}PRACTICAL 1}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Checking for git}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Install git on Windows}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Install Git on Linux}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}PRACTICAL 2}{5}{section.2}%
+\contentsline {section}{\numberline {3}PRACTICAL 3}{6}{section.3}%
+\contentsline {section}{\numberline {4}PRACTICAL 4}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}CREATE BRANCH}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}MERGE BRANCH}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}DELETE BRANCH}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}PRACTICAL 5}{10}{section.5}%
+\contentsline {section}{\numberline {6}PRACTICAL 6}{13}{section.6}%
+\contentsline {section}{\numberline {7}PRACTICAL 7}{16}{section.7}%
+\contentsline {section}{\numberline {8}PRACTICAL 8}{18}{section.8}%
+\contentsline {section}{\numberline {9}PRACTICAL 9}{21}{section.9}%
+\contentsline {section}{\numberline {10}PRACTICAL 10}{23}{section.10}%
+\contentsline {section}{\numberline {11}PRACTICAL 11}{25}{section.11}%
