@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.20)  10 JUN 2022 18:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.20)  16 JUN 2022 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,17 +371,17 @@ LaTeX Info: Redefining \nameref on input line 28.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images//gndeclogo.png, id=71, 238.8925pt x 212.795pt>
+<images//gndeclogo.png, id=83, 238.8925pt x 212.795pt>
 File: images//gndeclogo.png Graphic file (type png)
 <use images//gndeclogo.png>
-Package pdftex.def Info: images//gndeclogo.png  used on input line 49.
+Package pdftex.def Info: images//gndeclogo.png  used on input line 62.
 (pdftex.def)             Requested size: 167.2236pt x 148.95547pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
 
 (C:\Users\PARVESH\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
 
 
 (C:\Users\PARVESH\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsb.fd
@@ -399,440 +399,455 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.90 \clearpage
-                [1
+l.103 \clearpage
+                 [1
 
 ]
-Overfull \hbox (27.0932pt too wide) in paragraph at lines 100--101
+Overfull \hbox (27.0932pt too wide) in paragraph at lines 113--114
 []\OT1/cmr/m/n/12 If you're on a Windows machine, open the windows command prom
 pt or "Git Bash".[Figure
  []
 
-<images//gitversion.jpg, id=102, 444.4605pt x 255.95625pt>
+<images//gitversion.jpg, id=117, 444.4605pt x 255.95625pt>
 File: images//gitversion.jpg Graphic file (type jpg)
 <use images//gitversion.jpg>
-Package pdftex.def Info: images//gitversion.jpg  used on input line 109.
+Package pdftex.def Info: images//gitversion.jpg  used on input line 122.
 (pdftex.def)             Requested size: 444.45941pt x 255.95561pt.
-<images//gitinstallsite.jpg, id=104, 525.162pt x 367.97475pt>
+<images//gitinstallsite.jpg, id=119, 525.162pt x 367.97475pt>
 File: images//gitinstallsite.jpg Graphic file (type jpg)
 <use images//gitinstallsite.jpg>
-Package pdftex.def Info: images//gitinstallsite.jpg  used on input line 120.
+Package pdftex.def Info: images//gitinstallsite.jpg  used on input line 133.
 (pdftex.def)             Requested size: 367.6109pt x 257.58057pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.125 
+l.138 
        [1
 
  <./images//gitversion.jpg>]
-<images//gitinstall4.jpg, id=112, 503.481pt x 248.127pt>
+<images//gitinstall4.jpg, id=127, 503.481pt x 248.127pt>
 File: images//gitinstall4.jpg Graphic file (type jpg)
 <use images//gitinstall4.jpg>
-Package pdftex.def Info: images//gitinstall4.jpg  used on input line 135.
+Package pdftex.def Info: images//gitinstall4.jpg  used on input line 148.
 (pdftex.def)             Requested size: 352.4343pt x 173.6877pt.
-<images//gitinstall5.jpg, id=113, 443.256pt x 278.2395pt>
+<images//gitinstall5.jpg, id=128, 443.256pt x 278.2395pt>
 File: images//gitinstall5.jpg Graphic file (type jpg)
 <use images//gitinstall5.jpg>
-Package pdftex.def Info: images//gitinstall5.jpg  used on input line 147.
+Package pdftex.def Info: images//gitinstall5.jpg  used on input line 160.
 (pdftex.def)             Requested size: 310.27708pt x 194.76631pt.
  [2 <./images//gitinstallsite.jpg> <./images//gitinstall4.jpg>] [3 <./images//g
 itinstall5.jpg>]
-<images//gitinstall6.jpg, id=139, 460.72125pt x 301.125pt>
+<images//gitinstall6.jpg, id=154, 460.72125pt x 301.125pt>
 File: images//gitinstall6.jpg Graphic file (type jpg)
 <use images//gitinstall6.jpg>
-Package pdftex.def Info: images//gitinstall6.jpg  used on input line 183.
+Package pdftex.def Info: images//gitinstall6.jpg  used on input line 196.
 (pdftex.def)             Requested size: 322.50267pt x 210.78606pt.
  [4 <./images//gitinstall6.jpg>]
-<images//p2createaccount.jpg, id=152, 740.7675pt x 537.207pt>
+<images//p2createaccount.jpg, id=167, 740.7675pt x 537.207pt>
 File: images//p2createaccount.jpg Graphic file (type jpg)
 <use images//p2createaccount.jpg>
-Package pdftex.def Info: images//p2createaccount.jpg  used on input line 218.
+Package pdftex.def Info: images//p2createaccount.jpg  used on input line 231.
 (pdftex.def)             Requested size: 370.38284pt x 268.60284pt.
  [5
 
  <./images//p2createaccount.jpg>]
-<images//p3(1).jpg, id=167, 248.127pt x 211.992pt>
+<images//p3(1).jpg, id=182, 248.127pt x 211.992pt>
 File: images//p3(1).jpg Graphic file (type jpg)
 <use images//p3(1).jpg>
-Package pdftex.def Info: images//p3(1).jpg  used on input line 258.
+Package pdftex.def Info: images//p3(1).jpg  used on input line 271.
 (pdftex.def)             Requested size: 248.12637pt x 211.99147pt.
-<images//p3two.jpg, id=168, 635.976pt x 370.986pt>
+<images//p3two.jpg, id=183, 635.976pt x 370.986pt>
 File: images//p3two.jpg Graphic file (type jpg)
 <use images//p3two.jpg>
-Package pdftex.def Info: images//p3two.jpg  used on input line 269.
+Package pdftex.def Info: images//p3two.jpg  used on input line 282.
 (pdftex.def)             Requested size: 381.58853pt x 222.5933pt.
 
-Overfull \hbox (4.13046pt too wide) in paragraph at lines 275--276
+Overfull \hbox (4.13046pt too wide) in paragraph at lines 288--289
 []\OT1/cmr/m/n/12 Optionally, add a description of our repository. For example,
  "First devops repository." 
  []
 
-<images//p3three.jpg, id=169, 722.7pt x 290.2845pt>
+<images//p3three.jpg, id=184, 722.7pt x 290.2845pt>
 File: images//p3three.jpg Graphic file (type jpg)
 <use images//p3three.jpg>
-Package pdftex.def Info: images//p3three.jpg  used on input line 279.
+Package pdftex.def Info: images//p3three.jpg  used on input line 292.
 (pdftex.def)             Requested size: 578.16078pt x 232.2279pt.
 
-Overfull \hbox (115.80348pt too wide) in paragraph at lines 279--280
+Overfull \hbox (115.80348pt too wide) in paragraph at lines 292--293
  [][] 
  []
 
 [6 <./images//p3(1).jpg> <./images//p3two.jpg>]
-<images//p3four.jpg, id=180, 621.522pt x 358.33875pt>
+<images//p3four.jpg, id=195, 621.522pt x 358.33875pt>
 File: images//p3four.jpg Graphic file (type jpg)
 <use images//p3four.jpg>
-Package pdftex.def Info: images//p3four.jpg  used on input line 290.
+Package pdftex.def Info: images//p3four.jpg  used on input line 303.
 (pdftex.def)             Requested size: 497.21828pt x 286.67139pt.
 
-Overfull \hbox (34.86098pt too wide) in paragraph at lines 290--291
+Overfull \hbox (34.86098pt too wide) in paragraph at lines 303--304
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--306
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
 [7 <./images//p3three.jpg> <./images//p3four.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
- []
-
+<images//f1.jpg, id=205, 320.397pt x 34.32825pt>
+File: images//f1.jpg Graphic file (type jpg)
+<use images//f1.jpg>
+Package pdftex.def Info: images//f1.jpg  used on input line 331.
+(pdftex.def)             Requested size: 256.31793pt x 27.46262pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+<images//f2.jpg, id=206, 317.38576pt x 89.133pt>
+File: images//f2.jpg Graphic file (type jpg)
+<use images//f2.jpg>
+Package pdftex.def Info: images//f2.jpg  used on input line 358.
+(pdftex.def)             Requested size: 253.90895pt x 71.30647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+
+ []
+
+[8 <./images//f1.jpg> <./images//f2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+<images//f3.jpg, id=216, 311.36325pt x 61.4295pt>
+File: images//f3.jpg Graphic file (type jpg)
+<use images//f3.jpg>
+Package pdftex.def Info: images//f3.jpg  used on input line 375.
+(pdftex.def)             Requested size: 249.09093pt x 49.14365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
 
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 371--373
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
 
  []
 
-<images//fig11.jpg, id=202, 919.63576pt x 537.80925pt>
+[9 <./images//f3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
+
+ []
+
+<images//fig11.jpg, id=223, 919.63576pt x 537.80925pt>
 File: images//fig11.jpg Graphic file (type jpg)
 <use images//fig11.jpg>
-Package pdftex.def Info: images//fig11.jpg  used on input line 382.
+Package pdftex.def Info: images//fig11.jpg  used on input line 417.
 (pdftex.def)             Requested size: 459.81676pt x 268.90396pt.
 
-Overfull \hbox (6.27414pt too wide) in paragraph at lines 388--389
+Overfull \hbox (6.27414pt too wide) in paragraph at lines 423--424
 []\OT1/cmr/m/n/12 When prompted, ensure the Use WSL 2 instead of Hyper-V option
  on the Configuration
  []
 
-<images//fig12.jpg, id=203, 475.7775pt x 335.45325pt>
+<images//fig12.jpg, id=224, 475.7775pt x 335.45325pt>
 File: images//fig12.jpg Graphic file (type jpg)
 <use images//fig12.jpg>
-Package pdftex.def Info: images//fig12.jpg  used on input line 394.
+Package pdftex.def Info: images//fig12.jpg  used on input line 429.
 (pdftex.def)             Requested size: 380.6225pt x 268.36295pt.
 [10
 
  <./images//fig11.jpg>]
-<images//fig13.jpg, id=213, 501.67426pt x 326.4195pt>
+<images//fig13.jpg, id=234, 501.67426pt x 326.4195pt>
 File: images//fig13.jpg Graphic file (type jpg)
 <use images//fig13.jpg>
-Package pdftex.def Info: images//fig13.jpg  used on input line 403.
+Package pdftex.def Info: images//fig13.jpg  used on input line 438.
 (pdftex.def)             Requested size: 351.16957pt x 228.49208pt.
-<images//fig14.jpg, id=214, 921.4425pt x 546.24075pt>
+<images//fig14.jpg, id=235, 921.4425pt x 546.24075pt>
 File: images//fig14.jpg Graphic file (type jpg)
 <use images//fig14.jpg>
-Package pdftex.def Info: images//fig14.jpg  used on input line 413.
+Package pdftex.def Info: images//fig14.jpg  used on input line 448.
 (pdftex.def)             Requested size: 460.72012pt x 273.1197pt.
  [11 <./images//fig12.jpg> <./images//fig13.jpg>]
 [12 <./images//fig14.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 424--426
+Underfull \hbox (badness 10000) in paragraph at lines 459--461
 
  []
 
-<images//fig15.jpg, id=229, 790.152pt x 442.65375pt>
+<images//fig15.jpg, id=250, 790.152pt x 442.65375pt>
 File: images//fig15.jpg Graphic file (type jpg)
 <use images//fig15.jpg>
-Package pdftex.def Info: images//fig15.jpg  used on input line 434.
+Package pdftex.def Info: images//fig15.jpg  used on input line 469.
 (pdftex.def)             Requested size: 395.07503pt x 221.32632pt.
-<images//fig16.jpg, id=230, 659.46375pt x 236.082pt>
+<images//fig16.jpg, id=251, 659.46375pt x 236.082pt>
 File: images//fig16.jpg Graphic file (type jpg)
 <use images//fig16.jpg>
-Package pdftex.def Info: images//fig16.jpg  used on input line 443.
+Package pdftex.def Info: images//fig16.jpg  used on input line 478.
 (pdftex.def)             Requested size: 395.68129pt x 141.65028pt.
-<images//fig17.jpg, id=231, 672.111pt x 124.66576pt>
+<images//fig17.jpg, id=252, 672.111pt x 124.66576pt>
 File: images//fig17.jpg Graphic file (type jpg)
 <use images//fig17.jpg>
-Package pdftex.def Info: images//fig17.jpg  used on input line 452.
+Package pdftex.def Info: images//fig17.jpg  used on input line 487.
 (pdftex.def)             Requested size: 403.2697pt x 74.80002pt.
 [13
 
  <./images//fig15.jpg> <./images//fig16.jpg>]
-<images//fig18.jpg, id=241, 844.95676pt x 154.176pt>
+<images//fig18.jpg, id=262, 844.95676pt x 154.176pt>
 File: images//fig18.jpg Graphic file (type jpg)
 <use images//fig18.jpg>
-Package pdftex.def Info: images//fig18.jpg  used on input line 463.
+Package pdftex.def Info: images//fig18.jpg  used on input line 498.
 (pdftex.def)             Requested size: 422.47734pt x 77.0878pt.
-<images//fig19.jpg, id=242, 1015.99574pt x 489.027pt>
+<images//fig19.jpg, id=263, 1015.99574pt x 489.027pt>
 File: images//fig19.jpg Graphic file (type jpg)
 <use images//fig19.jpg>
-Package pdftex.def Info: images//fig19.jpg  used on input line 472.
+Package pdftex.def Info: images//fig19.jpg  used on input line 507.
 (pdftex.def)             Requested size: 457.19386pt x 220.0601pt.
-<images//fig20.jpg, id=243, 766.66425pt x 157.7895pt>
+<images//fig20.jpg, id=264, 766.66425pt x 157.7895pt>
 File: images//fig20.jpg Graphic file (type jpg)
 <use images//fig20.jpg>
-Package pdftex.def Info: images//fig20.jpg  used on input line 481.
+Package pdftex.def Info: images//fig20.jpg  used on input line 516.
 (pdftex.def)             Requested size: 460.0021pt x 94.67442pt.
  [14 <./images//fig17.jpg> <./images//fig18.jpg> <./images//fig19.jpg>] [15 <./
 images//fig20.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
+Underfull \hbox (badness 10000) in paragraph at lines 528--530
 
  []
 
-<images//fig21.jpg, id=259, 977.45175pt x 508.90125pt>
+<images//fig21.jpg, id=280, 977.45175pt x 508.90125pt>
 File: images//fig21.jpg Graphic file (type jpg)
 <use images//fig21.jpg>
-Package pdftex.def Info: images//fig21.jpg  used on input line 503.
+Package pdftex.def Info: images//fig21.jpg  used on input line 538.
 (pdftex.def)             Requested size: 488.72469pt x 254.45pt.
 
-Overfull \hbox (26.36739pt too wide) in paragraph at lines 503--504
+Overfull \hbox (26.36739pt too wide) in paragraph at lines 538--539
  [][] 
  []
 
-<images//fig22.jpg, id=260, 596.2275pt x 226.446pt>
+<images//fig22.jpg, id=281, 596.2275pt x 226.446pt>
 File: images//fig22.jpg Graphic file (type jpg)
 <use images//fig22.jpg>
-Package pdftex.def Info: images//fig22.jpg  used on input line 513.
+Package pdftex.def Info: images//fig22.jpg  used on input line 548.
 (pdftex.def)             Requested size: 357.73926pt x 135.86864pt.
-<images//fig23.jpg, id=261, 492.03825pt x 163.20975pt>
+<images//fig23.jpg, id=282, 492.03825pt x 163.20975pt>
 File: images//fig23.jpg Graphic file (type jpg)
 <use images//fig23.jpg>
-Package pdftex.def Info: images//fig23.jpg  used on input line 522.
+Package pdftex.def Info: images//fig23.jpg  used on input line 557.
 (pdftex.def)             Requested size: 344.42442pt x 114.24603pt.
 [16
 
  <./images//fig21.jpg> <./images//fig22.jpg>]
-<images//fig24.jpg, id=271, 618.51076pt x 236.082pt>
+<images//fig24.jpg, id=292, 618.51076pt x 236.082pt>
 File: images//fig24.jpg Graphic file (type jpg)
 <use images//fig24.jpg>
-Package pdftex.def Info: images//fig24.jpg  used on input line 531.
+Package pdftex.def Info: images//fig24.jpg  used on input line 566.
 (pdftex.def)             Requested size: 371.10931pt x 141.65028pt.
-<images//fig25.jpg, id=272, 458.9145pt x 132.495pt>
+<images//fig25.jpg, id=293, 458.9145pt x 132.495pt>
 File: images//fig25.jpg Graphic file (type jpg)
 <use images//fig25.jpg>
-Package pdftex.def Info: images//fig25.jpg  used on input line 540.
+Package pdftex.def Info: images//fig25.jpg  used on input line 575.
 (pdftex.def)             Requested size: 321.23796pt x 92.74585pt.
  [17 <./images//fig23.jpg> <./images//fig24.jpg> <./images//fig25.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 552--554
+Underfull \hbox (badness 10000) in paragraph at lines 587--589
 
  []
 
-<images//fig26.jpg, id=283, 513.117pt x 99.9735pt>
+<images//fig26.jpg, id=304, 513.117pt x 99.9735pt>
 File: images//fig26.jpg Graphic file (type jpg)
 <use images//fig26.jpg>
-Package pdftex.def Info: images//fig26.jpg  used on input line 560.
+Package pdftex.def Info: images//fig26.jpg  used on input line 595.
 (pdftex.def)             Requested size: 359.17946pt x 69.98096pt.
-<images//fig27.jpg, id=284, 519.1395pt x 166.82326pt>
+<images//fig27.jpg, id=305, 519.1395pt x 166.82326pt>
 File: images//fig27.jpg Graphic file (type jpg)
 <use images//fig27.jpg>
-Package pdftex.def Info: images//fig27.jpg  used on input line 569.
+Package pdftex.def Info: images//fig27.jpg  used on input line 604.
 (pdftex.def)             Requested size: 363.39516pt x 116.77548pt.
-<images//fig28.jpg, id=285, 904.5795pt x 175.857pt>
+<images//fig28.jpg, id=306, 904.5795pt x 175.857pt>
 File: images//fig28.jpg Graphic file (type jpg)
 <use images//fig28.jpg>
-Package pdftex.def Info: images//fig28.jpg  used on input line 579.
+Package pdftex.def Info: images//fig28.jpg  used on input line 614.
 (pdftex.def)             Requested size: 452.28865pt x 87.92828pt.
-<images//fig29.jpg, id=286, 510.708pt x 130.086pt>
+<images//fig29.jpg, id=307, 510.708pt x 130.086pt>
 File: images//fig29.jpg Graphic file (type jpg)
 <use images//fig29.jpg>
-Package pdftex.def Info: images//fig29.jpg  used on input line 588.
+Package pdftex.def Info: images//fig29.jpg  used on input line 623.
 (pdftex.def)             Requested size: 357.49315pt x 91.05956pt.
 [18
 
  <./images//fig26.jpg> <./images//fig27.jpg> <./images//fig28.jpg>]
-<images//fig30.jpg, id=298, 443.85825pt x 222.8325pt>
+<images//fig30.jpg, id=319, 443.85825pt x 222.8325pt>
 File: images//fig30.jpg Graphic file (type jpg)
 <use images//fig30.jpg>
-Package pdftex.def Info: images//fig30.jpg  used on input line 597.
+Package pdftex.def Info: images//fig30.jpg  used on input line 632.
 (pdftex.def)             Requested size: 310.69864pt x 155.98167pt.
-<images//fig31.jpg, id=299, 465.53925pt x 229.45724pt>
+<images//fig31.jpg, id=320, 465.53925pt x 229.45724pt>
 File: images//fig31.jpg Graphic file (type jpg)
 <use images//fig31.jpg>
-Package pdftex.def Info: images//fig31.jpg  used on input line 606.
+Package pdftex.def Info: images//fig31.jpg  used on input line 641.
 (pdftex.def)             Requested size: 325.87524pt x 160.61896pt.
-<images//fig32.jpg, id=300, 666.69075pt x 109.6095pt>
+<images//fig32.jpg, id=321, 666.69075pt x 109.6095pt>
 File: images//fig32.jpg Graphic file (type jpg)
 <use images//fig32.jpg>
-Package pdftex.def Info: images//fig32.jpg  used on input line 615.
+Package pdftex.def Info: images//fig32.jpg  used on input line 650.
 (pdftex.def)             Requested size: 466.68034pt x 76.7261pt.
 
-Overfull \hbox (4.32304pt too wide) in paragraph at lines 615--616
+Overfull \hbox (4.32304pt too wide) in paragraph at lines 650--651
  [][] 
  []
 
 [19 <./images//fig29.jpg> <./images//fig30.jpg> <./images//fig31.jpg>]
-<images//fig33.jpg, id=310, 470.35725pt x 190.311pt>
+<images//fig33.jpg, id=331, 470.35725pt x 190.311pt>
 File: images//fig33.jpg Graphic file (type jpg)
 <use images//fig33.jpg>
-Package pdftex.def Info: images//fig33.jpg  used on input line 624.
+Package pdftex.def Info: images//fig33.jpg  used on input line 659.
 (pdftex.def)             Requested size: 329.24782pt x 133.21677pt.
  [20 <./images//fig32.jpg> <./images//fig33.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 636--638
+Underfull \hbox (badness 10000) in paragraph at lines 671--673
 
  []
 
-<images//fig34.jpg, id=318, 519.1395pt x 238.491pt>
+<images//fig34.jpg, id=339, 519.1395pt x 238.491pt>
 File: images//fig34.jpg Graphic file (type jpg)
 <use images//fig34.jpg>
-Package pdftex.def Info: images//fig34.jpg  used on input line 648.
+Package pdftex.def Info: images//fig34.jpg  used on input line 683.
 (pdftex.def)             Requested size: 363.39516pt x 166.94255pt.
-<images//fig35.jpg, id=319, 546.24075pt x 121.6545pt>
+<images//fig35.jpg, id=340, 546.24075pt x 121.6545pt>
 File: images//fig35.jpg Graphic file (type jpg)
 <use images//fig35.jpg>
-Package pdftex.def Info: images//fig35.jpg  used on input line 659.
+Package pdftex.def Info: images//fig35.jpg  used on input line 694.
 (pdftex.def)             Requested size: 382.36592pt x 85.15755pt.
 
-Overfull \hbox (23.07751pt too wide) in paragraph at lines 664--665
+Overfull \hbox (23.07751pt too wide) in paragraph at lines 699--700
 []\OT1/cmr/m/n/12 The basic syntax used to build an image using a Dockerfile is
 : \OT1/cmr/bx/it/12 docker build [OPTIONS]
  []
 
-<images//fig36.jpg, id=320, 885.90974pt x 307.74976pt>
+<images//fig36.jpg, id=341, 885.90974pt x 307.74976pt>
 File: images//fig36.jpg Graphic file (type jpg)
 <use images//fig36.jpg>
-Package pdftex.def Info: images//fig36.jpg  used on input line 670.
+Package pdftex.def Info: images//fig36.jpg  used on input line 705.
 (pdftex.def)             Requested size: 442.9538pt x 153.8745pt.
 [21
 
  <./images//fig34.jpg> <./images//fig35.jpg>]
-<images//fig37.jpg, id=333, 602.25pt x 79.497pt>
+<images//fig37.jpg, id=354, 602.25pt x 79.497pt>
 File: images//fig37.jpg Graphic file (type jpg)
 <use images//fig37.jpg>
-Package pdftex.def Info: images//fig37.jpg  used on input line 680.
+Package pdftex.def Info: images//fig37.jpg  used on input line 715.
 (pdftex.def)             Requested size: 421.57211pt x 55.6475pt.
-<images//fig38.jpg, id=334, 904.5795pt x 149.358pt>
+<images//fig38.jpg, id=355, 904.5795pt x 149.358pt>
 File: images//fig38.jpg Graphic file (type jpg)
 <use images//fig38.jpg>
-Package pdftex.def Info: images//fig38.jpg  used on input line 689.
+Package pdftex.def Info: images//fig38.jpg  used on input line 724.
 (pdftex.def)             Requested size: 452.28865pt x 74.6788pt.
  [22 <./images//fig36.jpg> <./images//fig37.jpg> <./images//fig38.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 701--703
+Underfull \hbox (badness 10000) in paragraph at lines 736--738
 
  []
 
-<images//fig39.jpg, id=344, 834.7185pt x 377.61075pt>
+<images//fig39.jpg, id=365, 834.7185pt x 377.61075pt>
 File: images//fig39.jpg Graphic file (type jpg)
 <use images//fig39.jpg>
-Package pdftex.def Info: images//fig39.jpg  used on input line 715.
+Package pdftex.def Info: images//fig39.jpg  used on input line 750.
 (pdftex.def)             Requested size: 417.35823pt x 188.8049pt.
 
-Overfull \hbox (7.35901pt too wide) in paragraph at lines 723--724
+Overfull \hbox (7.35901pt too wide) in paragraph at lines 758--759
 []\OT1/cmr/m/n/12 Name your local images using re-tagging an existing local ima
 ge $\OML/cmm/m/it/12 dockertag < existing \OMS/cmsy/m/n/12 ^^@
  []
 
-<images//fig40.jpg, id=345, 715.473pt x 110.21175pt>
+<images//fig40.jpg, id=366, 715.473pt x 110.21175pt>
 File: images//fig40.jpg Graphic file (type jpg)
 <use images//fig40.jpg>
-Package pdftex.def Info: images//fig40.jpg  used on input line 727.
+Package pdftex.def Info: images//fig40.jpg  used on input line 762.
 (pdftex.def)             Requested size: 357.73563pt x 55.10573pt.
-<images//fig41.jpg, id=346, 708.246pt x 130.68825pt>
+<images//fig41.jpg, id=367, 708.246pt x 130.68825pt>
 File: images//fig41.jpg Graphic file (type jpg)
 <use images//fig41.jpg>
-Package pdftex.def Info: images//fig41.jpg  used on input line 736.
+Package pdftex.def Info: images//fig41.jpg  used on input line 771.
 (pdftex.def)             Requested size: 354.12213pt x 65.34395pt.
 [23
 
  <./images//fig39.jpg> <./images//fig40.jpg> <./images//fig41.jpg>]
-<images//fig42.jpg, id=362, 867.24pt x 546.24075pt>
+<images//fig42.jpg, id=383, 867.24pt x 546.24075pt>
 File: images//fig42.jpg Graphic file (type jpg)
 <use images//fig42.jpg>
-Package pdftex.def Info: images//fig42.jpg  used on input line 745.
+Package pdftex.def Info: images//fig42.jpg  used on input line 780.
 (pdftex.def)             Requested size: 433.61894pt x 273.1197pt.
  [24 <./images//fig42.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 758--760
+Underfull \hbox (badness 10000) in paragraph at lines 793--795
 
  []
 
-<images//fig43.jpg, id=369, 392.06474pt x 33.726pt>
+<images//fig43.jpg, id=390, 392.06474pt x 33.726pt>
 File: images//fig43.jpg Graphic file (type jpg)
 <use images//fig43.jpg>
-Package pdftex.def Info: images//fig43.jpg  used on input line 780.
+Package pdftex.def Info: images//fig43.jpg  used on input line 815.
 (pdftex.def)             Requested size: 235.24066pt x 20.23575pt.
-<images//fig44.jpg, id=370, 329.43076pt x 48.78226pt>
+<images//fig44.jpg, id=391, 329.43076pt x 48.78226pt>
 File: images//fig44.jpg Graphic file (type jpg)
 <use images//fig44.jpg>
-Package pdftex.def Info: images//fig44.jpg  used on input line 789.
+Package pdftex.def Info: images//fig44.jpg  used on input line 824.
 (pdftex.def)             Requested size: 197.65997pt x 29.26956pt.
-<images//fig45.jpg, id=371, 546.24075pt x 178.266pt>
+<images//fig45.jpg, id=392, 546.24075pt x 178.266pt>
 File: images//fig45.jpg Graphic file (type jpg)
 <use images//fig45.jpg>
-Package pdftex.def Info: images//fig45.jpg  used on input line 798.
+Package pdftex.def Info: images//fig45.jpg  used on input line 833.
 (pdftex.def)             Requested size: 327.74698pt x 106.9604pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 803--804
+Underfull \hbox (badness 10000) in paragraph at lines 838--839
 
  []
 
 [25
 
  <./images//fig43.jpg> <./images//fig44.jpg> <./images//fig45.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 805--806
+Underfull \hbox (badness 10000) in paragraph at lines 840--841
 
  []
 
 
-Overfull \hbox (27.53647pt too wide) in paragraph at lines 807--808
+Overfull \hbox (27.53647pt too wide) in paragraph at lines 842--843
 []$\OML/cmm/m/it/12 dockerrun\OT1/cmr/m/n/12 - \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/
 it/12 mountsource \OT1/cmr/m/n/12 = [\OML/cmm/m/it/12 volume[]ame\OT1/cmr/m/n/1
 2 ]\OML/cmm/m/it/12 ; destination \OT1/cmr/m/n/12 = [\OML/cmm/m/it/12 path[]n[]
@@ -840,68 +855,277 @@ ontainer\OT1/cmr/m/n/12 ][\OML/cmm/m/it/12 docker[]mage\OT1/cmr/m/n/12 ]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 809--810
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
 
  []
 
-<images//fig46.jpg, id=385, 557.08125pt x 120.45pt>
+<images//fig46.jpg, id=406, 557.08125pt x 120.45pt>
 File: images//fig46.jpg Graphic file (type jpg)
 <use images//fig46.jpg>
-Package pdftex.def Info: images//fig46.jpg  used on input line 813.
+Package pdftex.def Info: images//fig46.jpg  used on input line 848.
 (pdftex.def)             Requested size: 334.25133pt x 72.27054pt.
-<images//fig47.jpg, id=386, 501.67426pt x 143.3355pt>
+<images//fig47.jpg, id=407, 501.67426pt x 143.3355pt>
 File: images//fig47.jpg Graphic file (type jpg)
 <use images//fig47.jpg>
-Package pdftex.def Info: images//fig47.jpg  used on input line 829.
+Package pdftex.def Info: images//fig47.jpg  used on input line 864.
 (pdftex.def)             Requested size: 301.00687pt x 86.00194pt.
-<images//fig48.jpg, id=387, 570.33075pt x 36.135pt>
+<images//fig48.jpg, id=408, 570.33075pt x 36.135pt>
 File: images//fig48.jpg Graphic file (type jpg)
 <use images//fig48.jpg>
-Package pdftex.def Info: images//fig48.jpg  used on input line 838.
+Package pdftex.def Info: images//fig48.jpg  used on input line 873.
 (pdftex.def)             Requested size: 342.20108pt x 21.68115pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 845--847
+Underfull \hbox (badness 10000) in paragraph at lines 880--882
 
  []
 
-<images//fig49.jpg, id=388, 572.73975pt x 186.6975pt>
+<images//fig49.jpg, id=409, 572.73975pt x 186.6975pt>
 File: images//fig49.jpg Graphic file (type jpg)
 <use images//fig49.jpg>
-Package pdftex.def Info: images//fig49.jpg  used on input line 850.
+Package pdftex.def Info: images//fig49.jpg  used on input line 885.
 (pdftex.def)             Requested size: 343.6465pt x 112.01935pt.
 [26 <./images//fig46.jpg> <./images//fig47.jpg> <./images//fig48.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 858--860
+Underfull \hbox (badness 10000) in paragraph at lines 893--895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--863
+Underfull \hbox (badness 10000) in paragraph at lines 896--898
 
  []
 
-<images//fig50.jpg, id=405, 528.17325pt x 204.16275pt>
+<images//fig50.jpg, id=426, 528.17325pt x 204.16275pt>
 File: images//fig50.jpg Graphic file (type jpg)
 <use images//fig50.jpg>
-Package pdftex.def Info: images//fig50.jpg  used on input line 875.
+Package pdftex.def Info: images//fig50.jpg  used on input line 910.
 (pdftex.def)             Requested size: 316.90639pt x 122.49858pt.
-<images//fig51.jpg, id=406, 569.12625pt x 118.64325pt>
+<images//fig51.jpg, id=427, 569.12625pt x 118.64325pt>
 File: images//fig51.jpg Graphic file (type jpg)
 <use images//fig51.jpg>
-Package pdftex.def Info: images//fig51.jpg  used on input line 888.
+Package pdftex.def Info: images//fig51.jpg  used on input line 923.
 (pdftex.def)             Requested size: 455.30162pt x 94.9147pt.
 [27 <./images//fig49.jpg> <./images//fig50.jpg>] [28 <./images//fig51.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 936--938
+
+ []
+
+<images//fig51a.jpg, id=444, 537.207pt x 103.587pt>
+File: images//fig51a.jpg Graphic file (type jpg)
+<use images//fig51a.jpg>
+Package pdftex.def Info: images//fig51a.jpg  used on input line 947.
+(pdftex.def)             Requested size: 429.76619pt x 82.8697pt.
+<images//fig52.jpg, id=445, 434.22224pt x 280.04625pt>
+File: images//fig52.jpg Graphic file (type jpg)
+<use images//fig52.jpg>
+Package pdftex.def Info: images//fig52.jpg  used on input line 958.
+(pdftex.def)             Requested size: 347.37827pt x 224.0373pt.
+<images//fig53.jpg, id=446, 437.83575pt x 179.4705pt>
+File: images//fig53.jpg Graphic file (type jpg)
+<use images//fig53.jpg>
+Package pdftex.def Info: images//fig53.jpg  used on input line 968.
+(pdftex.def)             Requested size: 350.26907pt x 143.57658pt.
+[29
+
+ <./images//fig51a.jpg> <./images//fig52.jpg>]
+<images//fig54.jpg, id=457, 441.44925pt x 225.84375pt>
+File: images//fig54.jpg Graphic file (type jpg)
+<use images//fig54.jpg>
+Package pdftex.def Info: images//fig54.jpg  used on input line 977.
+(pdftex.def)             Requested size: 353.15987pt x 180.67523pt.
+<images//fig55.jpg, id=458, 439.6425pt x 196.93575pt>
+File: images//fig55.jpg Graphic file (type jpg)
+<use images//fig55.jpg>
+Package pdftex.def Info: images//fig55.jpg  used on input line 986.
+(pdftex.def)             Requested size: 351.71446pt x 157.54878pt.
+<images//fig56.jpg, id=459, 744.98325pt x 464.937pt>
+File: images//fig56.jpg Graphic file (type jpg)
+<use images//fig56.jpg>
+Package pdftex.def Info: images//fig56.jpg  used on input line 995.
+(pdftex.def)             Requested size: 372.4907pt x 232.46793pt.
+ [30 <./images//fig53.jpg> <./images//fig54.jpg> <./images//fig55.jpg>]
+<images//fig57.jpg, id=470, 720.89325pt x 405.31425pt>
+File: images//fig57.jpg Graphic file (type jpg)
+<use images//fig57.jpg>
+Package pdftex.def Info: images//fig57.jpg  used on input line 1005.
+(pdftex.def)             Requested size: 360.44574pt x 202.65663pt.
+<images//fig58.jpg, id=471, 723.9045pt x 430.60875pt>
+File: images//fig58.jpg Graphic file (type jpg)
+<use images//fig58.jpg>
+Package pdftex.def Info: images//fig58.jpg  used on input line 1015.
+(pdftex.def)             Requested size: 361.95135pt x 215.30383pt.
+ [31 <./images//fig56.jpg> <./images//fig57.jpg>]
+<images//fig59.jpg, id=480, 745.5855pt x 419.76825pt>
+File: images//fig59.jpg Graphic file (type jpg)
+<use images//fig59.jpg>
+Package pdftex.def Info: images//fig59.jpg  used on input line 1024.
+(pdftex.def)             Requested size: 372.79184pt x 209.8836pt.
+<images//fig60.jpg, id=481, 564.30824pt x 248.127pt>
+File: images//fig60.jpg Graphic file (type jpg)
+<use images//fig60.jpg>
+Package pdftex.def Info: images//fig60.jpg  used on input line 1034.
+(pdftex.def)             Requested size: 395.01306pt x 173.6877pt.
+ [32 <./images//fig58.jpg> <./images//fig59.jpg>]
+<images//fig61.jpg, id=490, 555.2745pt x 245.11575pt>
+File: images//fig61.jpg Graphic file (type jpg)
+<use images//fig61.jpg>
+Package pdftex.def Info: images//fig61.jpg  used on input line 1043.
+(pdftex.def)             Requested size: 388.6895pt x 171.57985pt.
+<images//fig62.jpg, id=491, 531.78674pt x 239.6955pt>
+File: images//fig62.jpg Graphic file (type jpg)
+<use images//fig62.jpg>
+Package pdftex.def Info: images//fig62.jpg  used on input line 1052.
+(pdftex.def)             Requested size: 372.24818pt x 167.78569pt.
+<images//fig63.jpg, id=492, 1133.4345pt x 523.9575pt>
+File: images//fig63.jpg Graphic file (type jpg)
+<use images//fig63.jpg>
+Package pdftex.def Info: images//fig63.jpg  used on input line 1061.
+(pdftex.def)             Requested size: 453.36577pt x 209.57928pt.
+ [33 <./images//fig60.jpg> <./images//fig61.jpg> <./images//fig62.jpg>] [34 <./
+images//fig63.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1074
+
+ []
+
+<images//fig64.jpg, id=508, 781.11826pt x 488.42474pt>
+File: images//fig64.jpg Graphic file (type jpg)
+<use images//fig64.jpg>
+Package pdftex.def Info: images//fig64.jpg  used on input line 1083.
+(pdftex.def)             Requested size: 468.67458pt x 293.0571pt.
+
+Overfull \hbox (6.31728pt too wide) in paragraph at lines 1083--1084
+ [][] 
+ []
+
+<images//fig65.jpg, id=509, 769.07326pt x 310.761pt>
+File: images//fig65.jpg Graphic file (type jpg)
+<use images//fig65.jpg>
+Package pdftex.def Info: images//fig65.jpg  used on input line 1092.
+(pdftex.def)             Requested size: 461.44751pt x 186.45804pt.
+[35
+
+ <./images//fig64.jpg>]
+<images//fig66.jpg, id=518, 611.886pt x 96.36pt>
+File: images//fig66.jpg Graphic file (type jpg)
+<use images//fig66.jpg>
+Package pdftex.def Info: images//fig66.jpg  used on input line 1101.
+(pdftex.def)             Requested size: 367.13441pt x 57.81642pt.
+<images//fig67.jpg, id=519, 760.0395pt x 287.8755pt>
+File: images//fig67.jpg Graphic file (type jpg)
+<use images//fig67.jpg>
+Package pdftex.def Info: images//fig67.jpg  used on input line 1111.
+(pdftex.def)             Requested size: 456.02722pt x 172.72662pt.
+<images//fig68.jpg, id=520, 604.05675pt x 257.16075pt>
+File: images//fig68.jpg Graphic file (type jpg)
+<use images//fig68.jpg>
+Package pdftex.def Info: images//fig68.jpg  used on input line 1120.
+(pdftex.def)             Requested size: 302.02763pt x 128.58005pt.
+ [36 <./images//fig65.jpg> <./images//fig66.jpg> <./images//fig67.jpg>]
+<images//fig69.jpg, id=531, 604.05675pt x 257.16075pt>
+File: images//fig69.jpg Graphic file (type jpg)
+<use images//fig69.jpg>
+Package pdftex.def Info: images//fig69.jpg  used on input line 1129.
+(pdftex.def)             Requested size: 302.02763pt x 128.58005pt.
+<images//fig70.jpg, id=532, 757.6305pt x 272.217pt>
+File: images//fig70.jpg Graphic file (type jpg)
+<use images//fig70.jpg>
+Package pdftex.def Info: images//fig70.jpg  used on input line 1138.
+(pdftex.def)             Requested size: 378.81432pt x 136.10815pt.
+<images//fig71.jpg, id=533, 341.47575pt x 184.89075pt>
+File: images//fig71.jpg Graphic file (type jpg)
+<use images//fig71.jpg>
+Package pdftex.def Info: images//fig71.jpg  used on input line 1147.
+(pdftex.def)             Requested size: 204.88702pt x 110.93529pt.
+ [37 <./images//fig68.jpg> <./images//fig69.jpg> <./images//fig70.jpg>]
+<images//fig72.jpg, id=544, 346.896pt x 211.38976pt>
+File: images//fig72.jpg Graphic file (type jpg)
+<use images//fig72.jpg>
+Package pdftex.def Info: images//fig72.jpg  used on input line 1156.
+(pdftex.def)             Requested size: 208.13919pt x 126.83481pt.
+<images//fig73.jpg, id=545, 522.753pt x 302.3295pt>
+File: images//fig73.jpg Graphic file (type jpg)
+<use images//fig73.jpg>
+Package pdftex.def Info: images//fig73.jpg  used on input line 1165.
+(pdftex.def)             Requested size: 365.9246pt x 211.6292pt.
+ [38 <./images//fig71.jpg> <./images//fig72.jpg> <./images//fig73.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
+
+ []
+
+<images//fig74.jpg, id=555, 349.90726pt x 111.41624pt>
+File: images//fig74.jpg Graphic file (type jpg)
+<use images//fig74.jpg>
+Package pdftex.def Info: images//fig74.jpg  used on input line 1199.
+(pdftex.def)             Requested size: 279.92616pt x 89.1331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
+
+ []
+
+<images//fig75.jpg, id=556, 186.6975pt x 167.4255pt>
+File: images//fig75.jpg Graphic file (type jpg)
+<use images//fig75.jpg>
+Package pdftex.def Info: images//fig75.jpg  used on input line 1212.
+(pdftex.def)             Requested size: 130.68735pt x 117.19704pt.
+<images//fig76.jpg, id=557, 524.55975pt x 271.0125pt>
+File: images//fig76.jpg Graphic file (type jpg)
+<use images//fig76.jpg>
+Package pdftex.def Info: images//fig76.jpg  used on input line 1222.
+(pdftex.def)             Requested size: 367.18932pt x 189.70744pt.
+[39
+
+ <./images//fig74.jpg> <./images//fig75.jpg>]
+<images//fig78.jpg, id=571, 525.76425pt x 281.853pt>
+File: images//fig78.jpg Graphic file (type jpg)
+<use images//fig78.jpg>
+Package pdftex.def Info: images//fig78.jpg  used on input line 1251.
+(pdftex.def)             Requested size: 420.61195pt x 225.4827pt.
+ [40 <./images//fig76.jpg>]
+<images//fig79.jpg, id=579, 515.526pt x 60.225pt>
+File: images//fig79.jpg Graphic file (type jpg)
+<use images//fig79.jpg>
+Package pdftex.def Info: images//fig79.jpg  used on input line 1262.
+(pdftex.def)             Requested size: 412.42137pt x 48.18005pt.
+<images//fig80.jpg, id=580, 520.94624pt x 269.20575pt>
+File: images//fig80.jpg Graphic file (type jpg)
+<use images//fig80.jpg>
+Package pdftex.def Info: images//fig80.jpg  used on input line 1282.
+(pdftex.def)             Requested size: 416.75757pt x 215.36488pt.
+
+[41 <./images//fig78.jpg> <./images//fig79.jpg>]
+<images//fig81.jpg, id=589, 522.753pt x 261.97874pt>
+File: images//fig81.jpg Graphic file (type jpg)
+<use images//fig81.jpg>
+Package pdftex.def Info: images//fig81.jpg  used on input line 1289.
+(pdftex.def)             Requested size: 418.20297pt x 209.58327pt.
+<images//fig82.jpg, id=590, 540.8205pt x 274.02374pt>
+File: images//fig82.jpg Graphic file (type jpg)
+<use images//fig82.jpg>
+Package pdftex.def Info: images//fig82.jpg  used on input line 1296.
+(pdftex.def)             Requested size: 432.65698pt x 219.21928pt.
+ [42 <./images//fig80.jpg> <./images//fig81.jpg>]
+<images//fig83.jpg, id=597, 513.117pt x 260.77425pt>
+File: images//fig83.jpg Graphic file (type jpg)
+<use images//fig83.jpg>
+Package pdftex.def Info: images//fig83.jpg  used on input line 1309.
+(pdftex.def)             Requested size: 410.49416pt x 208.61967pt.
+ [43 <./images//fig82.jpg> <./images//fig83.jpg>]
 (devopspractical.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `devopspractical.out' has not changed.
-(rerunfilecheck)             Checksum: 78771795A4B86A8D5BACD0D4CC1B2B7A;1986.
+(rerunfilecheck)             Checksum: F223B8A674E360ED70E19C308157B142;2310.
  ) 
 Here is how much of TeX's memory you used:
- 9936 strings out of 480486
- 160593 string characters out of 2892927
- 435664 words of memory out of 3000000
- 27599 multiletter control sequences out of 15000+600000
+ 10480 strings out of 480486
+ 169634 string characters out of 2892927
+ 434664 words of memory out of 3000000
+ 28057 multiletter control sequences out of 15000+600000
  476850 words of font info for 55 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  60i,8n,63p,531b,488s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -916,9 +1140,9 @@ pData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PAR
 VESH/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
 sers/PARVESH/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmti12.p
 fb>
-Output written on devopspractical.pdf (30 pages, 3086792 bytes).
+Output written on devopspractical.pdf (45 pages, 4757003 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 192 named destinations out of 1000 (max. 500000)
- 397 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 705 PDF objects out of 1000 (max. 8388607)
+ 278 named destinations out of 1000 (max. 500000)
+ 596 words of extra memory for PDF output out of 10000 (max. 10000000)
 

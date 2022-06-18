@@ -29,20 +29,33 @@
 \begin{titlepage}
  \centering
  
+ 
+\begin{center}
+{\large \bfseries \uppercase{DevOps: Software Architecture Lab}}\\
 
-{\large \bfseries \uppercase{DevOps: Software Architecture Lab}}
+\vspace{1\baselineskip}
+\textbf{Subject Code:} LPCIT-115
+
 \vspace{3\baselineskip}
  
-{\large \uppercase{Practical File}}\\
+{\large \uppercase{\textbf{Practical File}\\
  \vspace{2\baselineskip}
-{\bfseries Bachelor of technology}
-\vspace{2\baselineskip}
- 
-Information Technology
-\vspace{4\baselineskip}
+SUBMITTED IN PARTIAL FULFILMENT OF THE REQUIREMENTS FOR\\
+ \vspace{1\baselineskip}
+THE AWARD OF THE DEGREE OF\\
 
-April, 2022\\
 \vspace{2\baselineskip}
+}
+
+
+{\bfseries Bachelor of technology\\}
+\vspace{1\baselineskip}
+} 
+(Information Technology)
+\vspace{2\baselineskip}
+\end{center}
+April, 2022\\
+\vspace{1\baselineskip}
 
 \begin{figure}[h]
 \centering
@@ -313,6 +326,13 @@ A new branch can be created  with the help of the \emph{git branch} command.\\
 
 \vspace{1 mm}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{f1}
+\caption{Create branch}
+\vspace{0.6\baselineskip}
+\end{figure}	
+
 where fix-code is the name of new branch.
 
 \subsection{MERGE BRANCH}
@@ -333,6 +353,13 @@ Merge the fix-code branch to master/main branch.\\
 
 \vspace{1 mm}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{f2}
+\caption{Merge branch}
+\vspace{0.6\baselineskip}
+\end{figure}	
+
 The fix-code branch is now merged with master branch .
 
 \subsection{DELETE BRANCH}
@@ -341,6 +368,14 @@ For deleting specified branch, it is a safe operation. In this command, Git prev
 \vspace{1 mm}
 
 \textit{\textbf{\$ git branch -d fix-code}}\\
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{f3}
+\caption{Delete local branch}
+\vspace{0.6\baselineskip}
+\end{figure}	
 
 Attempting to delete an unmerged branch results in following error message.\\
 
@@ -891,6 +926,402 @@ The following example outlines how this is done.
 \end{figure}
 
 \end{enumerate}
+
+
+
+\clearpage
+
+\section{PRACTICAL 12}
+
+\textbf{\uppercase {Install Jenkins}} \\
+\vspace{0.1\baselineskip} \\
+
+First, you need to install OpenJDK. Jenkins currently only supports JDK8 and JDK11. Once Java is running, you can install Jenkins.
+
+Steps to install jenkins are: 
+\begin{enumerate}
+\item Click here to download the latest Jenkins package for Windows (currently it is version 2.130).
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig51a}
+\caption{Jenkins exe file}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+
+\item Click “Next” to start the installation.
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig52}
+\caption{Setup wizard}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Click the “Change. . . ” button if you want to install Jenkins in another folder.
+In this example, I will keep the default option and click on the “Next” button.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig53}
+\caption{Destination folder}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Click the “Install” button to start the installation process
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig54}
+\caption{Ready to install jenkins}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item When done, click the “Finish” button to complete the installation process.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig55}
+\caption{complete setup wizard}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item You will automatically be redirected to a local Jenkins page, or you can pastethe
+URL http://localhost:8080 in a browser.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig56}
+\caption{Unlock jenkins}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item To unlock Jenkins, copy the password from the file at C:Files (x86)and paste it
+in the Administrator password field. Then, click the “Continue” button.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig57}
+\caption{Fill password}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item You can install either the suggested plugins or selected plugins you choose.To keep
+it simple, we will install the suggested plugins.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig58}
+\caption{Install suggested plugins}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Wait until the plugins are completely installed
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig59}
+\caption{Getting started}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item The next thing that you should do is create an Admin user for Jenkins. Then,enter
+your details and click “Save and Continue”.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig60}
+\caption{create first user}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Click “Save and Finish” to complete the Jenkins installation.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig61}
+\caption{Instance configuration}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Now, click “Start using Jenkins” to start Jenkins. ’
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig62}
+\caption{Jenkins is ready}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Finally, here is the default Jenkins page.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.4]{fig63}
+\caption{Default dashboard}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\end{enumerate}
+
+\clearpage
+
+\section{PRACTICAL 13}
+
+\textbf{\uppercase {Create Jobs on Jenkins}} 
+\vspace{0.1\baselineskip} \\
+
+Steps to create jobs in jenkins are: -
+
+\begin{enumerate}
+\item Go to the Jenkins dashboard and Click on New Item, In the next screen, enter the Item name, in this case we have named it newjob. Choose the ‘Freestyle project
+option’.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig64}
+\caption{Enter an item name}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item The following screen will come up in which you can specify the details of the job.Under description write anything you want to give it as your description. Above I have given ”this is my first Jenkins job”.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig65}
+\caption{Write description}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Source code management for now is none selected.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig66}
+\caption{Source code management}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Build triggers to be selected as Build periodically with * * * * * which
+means after every minute I want my job to be run.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig67}
+\caption{Build triggers}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Build it with windows batch Command. Using echo “Hello jenkins....”.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig68}
+\caption{Build }
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item After build apply all the changes ,save them and go to dashboard.. there shows our newjob project.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig69}
+\caption{newjob item in dashboard}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Click on the arrow down button then select build now to check the build history.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{fig70}
+\caption{Build now}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Here is the record of build history.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig71}
+\caption{Build history}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Then click on the one of the history time to get the console output.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.6]{fig72}
+\caption{check console output}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item So when clicked to the console output. Here is the detail of our job created. SUCCESS status is shown which means our job is complete.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig73}
+\caption{Console output}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\end{enumerate}
+
+
+
+\clearpage
+
+\section{PRACTICAL 14}
+
+\textbf{\uppercase {Integrate Jenkins with GIT/ GITHUB}} 
+\vspace{0.1\baselineskip} \\
+
+\textbf{STEPS:-}\\
+\begin{enumerate}
+\item Create a sample Program
+\item Create a Jenkins job
+\item Add this program to GITHUB
+\item Add GIT Plugin in Jenkins
+\item Configure Jenkins job
+\end{enumerate}
+
+\begin{enumerate}
+\item Create a Sample program:\\
+You can create any sample program that you want like Java or Python or any other
+program. Here we will write a simple Python program that prints Hello. . . ..Good
+evening!
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig74}
+\caption{Sample program}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Create a Jenkins job:\\
+\begin{itemize}
+\item Open the web browser and go to Jenkins’s home page using the link localhost:
+8080. This is the default port number.
+\item Open Jenkins home page by entering the username and password.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig75}
+\caption{Login Page}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item For creating a project click on New Item and enter the project name and select Freestyle project. Click on OK.
+\end{itemize}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.7]{fig76}
+\caption{Creating new job}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Add this program to Github.
+
+\begin{itemize}
+\item Open git bash on your system. Navigate to the location of your program.
+Initialize an empty repository using the command git init.
+\item Use the command git add . to add the file to the staging area from the
+working directory
+ \item Now add the file to the local repository using the command git commit -m
+“demo.py file added”.
+\item Now you have to push this file to the remote repository. For doing that
+go to your GitHub account and create a new public repository. Now copy
+the location of this repository and go to git bash terminal. Here type the command git remote add origin ¡location-of-repository¿. Since now you have
+connected to the remote repository, you can now push your code there using
+the command git push -u origin master. To verify this go to GitHub account
+and refresh the page. You will see the file added there.
+
+\end{itemize}
+
+\item Add Git Plugin in Jenkins:
+\begin{itemize}
+\item On Jenkins’s homepage go to Manage Jenkins
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig78}
+\caption{Manage jenkins}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Next click on Manage Plugins. Here check got Git plugin in the installed
+section. If it is not available here search for it in the available section and
+download it.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig79}
+\caption{Git plugin}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\end{itemize}
+
+\item Configure Jenkins job to trigger the build:
+\begin{itemize}
+\item Go to the project in Jenkins that we created in step 2. Here in the Source
+Code Management section, select git and enter the link of the public repository
+that you created in step 3. Next in the Build Triggers section, click on
+Poll SCM option. Here in the Schedule part, you have to enter five asterisks
+separated by space. This is nothing but cron syntax for your job. This means
+that Jenkins will check for any changes in the source code every minute and
+if there is any change it will 
+trigger the Jenkins build.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig80}
+\caption{Configure jenkins job}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig81}
+\caption{Set Source code Management to Git}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig82}
+\caption{Build triggers}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+\item Click on Apply and then on Save. Next on your project home page click on
+Build Now. This will run the project and in the console output, you can see
+your program output the status of your Jenkins job. If everything is alright
+then it will display as Success.
+\end{itemize}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.8]{fig83}
+\caption{Console output}
+\vspace{0.6\baselineskip}
+\end{figure}
+
+
+
+\end{enumerate}
+
+
+
+
+
+
+
+
 
 
 \end{document}
